@@ -1,3 +1,3 @@
-##React learning first app
+## React learning first app
 
-###Burger command app 
+### Burger command app 
